@@ -1,4 +1,10 @@
-# 📑 Miniguia de Estudos: Fundamentos de Cloud AWS
+## 📚 Curadoria de Fontes
+Para alimentar a inteligência do NotebookLM e garantir a precisão das informações, utilizei as seguintes fontes oficiais:
+
+1. [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials-portugues): Treinamento digital básico para iniciantes.
+2. [Visão Geral da Amazon Web Services (Whitepaper)](https://d1.awsstatic.com/whitepapers/pt_BR/aws-overview.pdf): Documento técnico detalhando a infraestrutura global.
+3. [Modelo de Responsabilidade Compartilhada](https://aws.amazon.com/pt/compliance/shared-responsibility-model/): Guia fundamental sobre segurança na nuvem.
+4. [O que é Computação em Nuvem?](https://aws.amazon.com/pt/what-is-cloud-computing/): Explicação conceitual sobre o modelo sob demanda.# 📑 Miniguia de Estudos: Fundamentos de Cloud AWS
 > Projeto desenvolvido para o desafio prático da **DIO** focado em Aprendizagem Ativa com IA.
 
 ## 🎯 Contexto e Objetivos
@@ -50,5 +56,5 @@ A computação em nuvem é a entrega de recursos de TI sob demanda via internet.
 * *"Compare as vantagens do S3 em relação ao armazenamento tradicional em servidores locais."*
 
 ---
-✨ **Desenvolvido por:** [Seu Nome Aqui]
-🔗 **Conecte-se comigo:** [Link do seu LinkedIn]
+✨ **Desenvolvido por:** LucianMontibeller
+🔗 **Conecte-se comigo:** https://www.linkedin.com/in/lucian-montibeller-81218a222
